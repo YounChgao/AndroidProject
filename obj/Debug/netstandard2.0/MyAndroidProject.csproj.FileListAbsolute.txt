@@ -1,0 +1,16 @@
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\MyAndroidProject.csproj.AssemblyReference.cache
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\MyAndroidProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\MyAndroidProject.AssemblyInfoInputs.cache
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\MyAndroidProject.AssemblyInfo.cs
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\MyAndroidProject.csproj.CoreCompileInputs.cache
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\bin\Debug\netstandard2.0\MyAndroidProject.deps.json
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\bin\Debug\netstandard2.0\MyAndroidProject.dll
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\bin\Debug\netstandard2.0\ref\MyAndroidProject.dll
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\bin\Debug\netstandard2.0\MyAndroidProject.pdb
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\MyAndroidProject.dll
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\refint\MyAndroidProject.dll
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\MyAndroidProject.pdb
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\AndroidProject\C#\MyAndroidProject\MyAndroidProject\MyAndroidProject\obj\Debug\netstandard2.0\Views\WebViewPage.xaml.g.cs

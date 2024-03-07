@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:MyAndroidProject.Converters"
+             x:Class="MyAndroidProject.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ColorConverter x:Key="ColorConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Label Text="Время работы приложения:"/>
+        <Label x:Name="TimeLabel" FontSize="36" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Text="{Binding StringFormat='{}{0:hh\\:mm\\:ss}'}" />
+        
+        <Entry x:Name="entry" Placeholder="Ссылка" HorizontalOptions="FillAndExpand" />
+        <Button Text="Добавить" Clicked="OnAddClicked" HorizontalOptions="End" />
+        <Label Text="После добавления нажмите на ссылку"/>
+        <ListView x:Name="listView" ItemTapped="OpenLinq_Tapped"/>
+    </StackLayout>
+</ContentPage>
