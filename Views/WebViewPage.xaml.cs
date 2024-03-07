@@ -10,13 +10,7 @@ namespace MyAndroidProject
 		public WebViewPage(string url)
 		{
 			InitializeComponent();
-			Load();
 			OpenLinq(url);
-		}
-
-		private void Load()
-		{
-
 		}
 
 		private async void OpenLinq(string url)
